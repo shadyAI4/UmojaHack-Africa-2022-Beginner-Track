@@ -10,7 +10,7 @@
 <!-- Replace the line below with your actual certificate image path -->
 <!-- Example: ![Certificate](./certificate.png) -->
 
-![Certificate](./shadyAI-UmojaHack Africa 2022- Faulty Air Quality Sensor Challenge (BEGINNER).png)
+![Certificate](./certificate.png)
 
 > 📁 *Add your certificate image to this repository and update the path above.*
 
