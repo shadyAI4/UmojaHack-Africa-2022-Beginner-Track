@@ -10,7 +10,7 @@
 <!-- Replace the line below with your actual certificate image path -->
 <!-- Example: ![Certificate](./certificate.png) -->
 
-![Certificate](./certificate.png)
+!(./certificate.png)
 
 > 📁 *Add your certificate image to this repository and update the path above.*
 
