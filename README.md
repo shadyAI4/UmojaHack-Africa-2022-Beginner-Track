@@ -12,7 +12,6 @@
 
 ![Certificate](./certificate.png)
 
-> 📁 *Add your certificate image to this repository and update the path above.*
 
 ---
 
